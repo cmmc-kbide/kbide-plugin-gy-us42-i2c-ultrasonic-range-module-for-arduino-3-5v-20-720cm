@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm",
+  "title": "gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm",
+  "keywords": "gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm, esp32, esp8266, arduino",
+  "description": "gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-us42-i2c-ultrasonic-range-module-for-arduino-3-5v-20-720cm/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
